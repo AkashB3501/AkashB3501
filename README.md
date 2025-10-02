@@ -12,9 +12,7 @@
 
 - 🚀 Managed back-end development for seamless data management and server-side logic.
 </p>
-<br>
-<h1 align="center"><img src="" alt=""><img alt="GIF" src="https://github.com/user-attachments/assets/69124450-c85a-41de-b3be-243e7ef53492" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage"></h1>
-<br>
+
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">Interests :</h3>
   <a id="user-content-interests" class="anchor" aria-label="Permalink: Interests" href="#interests">
