@@ -1,130 +1,68 @@
-<!-- ═══════════════ HEADER BANNER ═══════════════ -->
-<div align="center">
+<img width="900" height="300" alt="hero" src="https://github.com/user-attachments/assets/c857dcde-5df8-4dbb-80c2-eefc34ed346d" /><div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Akash%20B&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=24C6DC&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Akash;Building+clean%2C+scalable+software;Turning+ideas+into+real+products;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+![Upl<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjZTg3YWVjMi1jMjg3LTQxOGMtYTRhYS1iYTM2NDhjMjMyMjQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAv565hm49Fttu0i6idOj1UAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkOTQ5ZjM3NS1lYjY0LTQ5ZWEtYTc3My0zZjhmZThjNmI3YWVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNovJfDCdBWsA2fRaui74w5VgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggIB/kzw+mEdeQJMTZU0ybU7xsh7LUV8XpYQv7SqmI1EqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEkD6UNqmuaAFAiqAJicgLQAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAKK/4UDxq/mYdTBg21E71SatFRe+hU5+bhVQp3ZQDqa2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmNlODdhZWMyLWMyODctNDE4Yy1hNGFhLWJhMzY0OGMyMzIyNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjlmZWEzYzE1LTZkODMtNDI3Zi05ZTliLTkyNTg2NWQzNWQ1ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAgH+TPD6YR15AkxNlTTJtTvGyHstRXxelhC/tKqYjUSqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg1b0C9umYfVrs5v5KMviRxsDu4xXaA7CHnMtcGTgeIDiiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggSWXH5VbZZYp5WlhBT8eqh8slt9wiEZHVcW6RGDFm1HJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGT8yeDJ2Pbjq6VV1i+WCOgEAdcmoCs5UTJ6+99E8Hyz01sLENaHkqem5mNtV3/Ohjx/uWfkikheHg25OCtj7iA=</c2pa:manifest></metadata>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0c1a"/><stop offset="1" stop-color="#10122b"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".12"/></linearGradient>
+<linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#2fd8ff"/><stop offset="1" stop-color="#7c6cff"/></linearGradient>
+<linearGradient id="ed" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".7"/><stop offset=".4" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#fff" stop-opacity=".4"/></linearGradient>
+<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+</defs>
+<rect width="900" height="300" rx="32" fill="url(#bg)"/>
+<g filter="url(#b)">
+<circle r="110" fill="#7c6cff" opacity=".8"><animate attributeName="cx" values="170;380;170" dur="9s" repeatCount="indefinite"/><animate attributeName="cy" values="90;220;90" dur="11s" repeatCount="indefinite"/></circle>
+<circle r="95" fill="#2fd8ff" opacity=".6"><animate attributeName="cx" values="720;520;720" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="210;70;210" dur="8s" repeatCount="indefinite"/></circle>
+<circle r="80" fill="#ff5fa8" opacity=".5"><animate attributeName="cx" values="450;650;450" dur="12s" repeatCount="indefinite"/><animate attributeName="cy" values="260;120;260" dur="9s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="60" y="45" width="780" height="210" rx="32" fill="url(#gl)" stroke="url(#ed)" stroke-width="1.5"/>
+<rect x="62" y="47" width="776" height="2" rx="1" fill="#fff" opacity=".35"/>
+<text x="450" y="140" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-3" fill="url(#tx)">Akash B</text>
+<text x="450" y="188" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#c9cdf0">Software Developer</text>
+<g font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#fff" text-anchor="middle">
+<rect x="318" y="208" width="264" height="30" rx="15" fill="#fff" opacity=".1" stroke="#fff" stroke-opacity=".3"/>
+<circle cx="340" cy="223" r="4" fill="#35e08a"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="462" y="228">Open to opportunities</text>
+</g>
+</svg>
+oading hero.svg…]()
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=AkashB1015&label=Profile%20Views&color=24c6dc&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/AkashB1015?label=Followers&style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="followers"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-24c6dc?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0f0c29" alt="open to work"/>
 
-</div>
 
-<br/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 👨‍💻 About Me
 
-```js
-const akash = {
-  name:      "Akash B",
-  role:      "Software Developer",
-  location:  "India 🇮🇳",
-  education: "Your Degree · Your College",
-  focus:     ["Web Development", "Data Structures & Algorithms", "Cloud & DevOps"],
-  learning:  ["System Design", "TypeScript", "Docker"],
-  funFact:   "I turn coffee ☕ into code 💻",
-  lookingFor: "Internships / Full-time roles / Open-source collaboration"
-};
-```
 
-> 💡 *"First, solve the problem. Then, write the code."*
-
-<br/>
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,c,html,css&theme=dark" alt="languages"/>
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap,flask&theme=dark" alt="frameworks"/>
-
-**Databases & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,linux,vscode,postman&theme=dark" alt="tools"/>
-
-**Cloud & Design**
-
-<img src="https://skillicons.dev/icons?i=aws,firebase,vercel,figma&theme=dark" alt="cloud"/>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-7c6cff?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2fd8ff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-ff5fa8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-<br/>
+### 👋 About
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-## 📊 GitHub Analytics
+Developer who builds fast, clean web products. Studying **Your Degree** at **Your College**, solving problems daily, and open to **internships and full-time roles**.
 
-<div align="center">
+### 🛠 Stack
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AkashB1015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashB1015&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" alt="top langs"/>
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nodejs,mysql,mongodb,git,docker,aws&theme=dark" alt="stack"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashB1015&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff9f1c&currStreakLabel=24c6dc" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashB1015&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-## 🚀 Featured Projects
+### 📊 Stats
 
 <div align="center">
 
-<a href="https://github.com/AkashB1015/YOUR-REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashB1015&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc" alt="project 1"/>
-</a>
-<a href="https://github.com/AkashB1015/YOUR-REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashB1015&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc" alt="project 2"/>
-</a>
-
-<a href="https://github.com/AkashB1015/YOUR-REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashB1015&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc" alt="project 3"/>
-</a>
-<a href="https://github.com/AkashB1015/YOUR-REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashB1015&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc" alt="project 4"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashB1015&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2fd8ff&icon_color=7c6cff"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashB1015&theme=tokyonight&hide_border=true&background=00000000&ring=2fd8ff&fire=ff5fa8"/>
 
 </div>
 
-<br/>
+### 🚀 Projects
 
-<!-- ═══════════════ HIGHLIGHTS ═══════════════ -->
-## 🎯 Currently
+<table>
+<tr>
+<td><a href="https://github.com/AkashB1015/YOUR-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashB1015&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=00000000"/></a></td>
+<td><a href="https://github.com/AkashB1015/YOUR-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashB1015&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=00000000"/></a></td>
+</tr>
+</table>
 
-| 🔭 Working on | 🌱 Learning | 🤝 Open to | ⚡ Ask me about |
-|:---:|:---:|:---:|:---:|
-| Personal projects & portfolio | System Design, Cloud | Internships, Jobs, Collabs | Web Dev, DSA, Problem Solving |
-
-<br/>
-
-<!-- ═══════════════ CONTACT ═══════════════ -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-24c6dc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/AkashB1015/YOUR-REPO-1/raw/main/Akash_Resume.pdf"><img src="https://img.shields.io/badge/Resume-302b63?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
-<a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=24C6DC&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%E2%9D%A4%EF%B8%8F;Let's+build+something+great+together!" alt="footer typing"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
-
-</div>
+<div align="center"><sub>✨ Full interactive portfolio: <a href="https://YOUR-PORTFOLIO.com">YOUR-PORTFOLIO.com</a></sub></div>
